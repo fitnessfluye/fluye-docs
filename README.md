@@ -19,3 +19,5 @@ Integrarnos con plataformas como Virtuagym para ofrecer a sus clientes una capa 
 ---
 
 **FLUYE** – Convirtiendo gimnasios en comunidades.
+
+📖 Lee nuestra [visión técnica completa](docs/vision.md)
