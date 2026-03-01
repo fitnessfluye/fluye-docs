@@ -4,9 +4,9 @@
 
 FLUYE ayuda a las cadenas de fitness a reducir la deserción de socios mediante:
 
-- **Aforo en tiempo real** (próximamente)
-- **Predicción de afluencia con IA** (próximamente)
-- **Comunidad gamificada**: rachas, eventos creados por usuarios, retos sociales (próximamente)
+- ✅ **Aforo en tiempo real** (próximamente)
+- ✅ **Predicción de afluencia con IA** (próximamente)
+- ✅ **Comunidad gamificada**: rachas, eventos creados por usuarios, retos sociales (próximamente)
 
 ## Estado del proyecto
 
@@ -14,10 +14,16 @@ En fase de desarrollo inicial. Este repositorio irá recogiendo documentación t
 
 ## Objetivo
 
-Integrarnos con plataformas como Virtuagym para ofrecer a sus clientes una capa de experiencia de socio que complemente sus sistemas de gestión.
+Integrarnos con plataformas como **Virtuagym** para ofrecer a sus clientes una capa de experiencia de socio que complemente sus sistemas de gestión.
 
 ---
 
-**FLUYE** – Convirtiendo gimnasios en comunidades.
+## 📚 Documentación / Documentation
 
-📖 Lee nuestra [visión técnica completa](docs/vision.md)
+- 🇪🇸 [Visión técnica completa (español)](docs/vision.md)
+- 🇬🇧 [Full technical vision (English)](docs/vision-en.md)
+
+---
+
+**FLUYE** – Convirtiendo gimnasios en comunidades.  
+**FLUYE** – Turning gyms into communities.
