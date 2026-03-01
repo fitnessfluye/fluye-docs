@@ -20,8 +20,7 @@ Integrarnos con plataformas como **Virtuagym** para ofrecer a sus clientes una c
 
 ## 📚 Documentación / Documentation
 
-- 🇪🇸 [Visión técnica completa (español)](docs/vision.md)
-- 🇬🇧 [Full technical vision (English)](docs/vision-en.md)
+- 🇬🇧 [Full technical vision (English)](vision-en.md)
 
 ---
 
