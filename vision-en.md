@@ -210,20 +210,7 @@ Based on their public documentation and other developers' experiences, we need:
 
 ---
 
-## 8. Key Differentiators (What NO ONE Else Has)
-
-| Feature | FLUYE | Competition (Virtuagym, etc.) |
-| :--- | :--- | :--- |
-| Member‑visible capacity | ✅ Yes | ❌ Internal only |
-| AI prediction with confidence % | ✅ Yes | ⚠️ Only "popular hours" (Basic-Fit) |
-| User‑created events | ✅ Yes | ❌ Only club news |
-| Advanced gamification (visual streaks, ranks) | ✅ Yes | ⚠️ Basic achievements |
-| Social feed with interactions | ✅ Yes | ❌ |
-| Gym buddies (member matching) | ✅ Yes | ❌ |
-
----
-
-## 9. Conclusion
+## 8. Conclusion
 
 FLUYE is not a management app. It is the **experience and community layer** that gyms need to retain members in an increasingly competitive market.
 
